@@ -21,12 +21,12 @@ The pipeline consists of the following steps:
 1. Report mapping (reports_extraction.py)
 2. Data cleaning (preprocessing.ipynb)
 3. Metadata preprocessing (preprocessing.ipynb)
-4. Embedding generation (preprocessing.ipynb)
+4. Embedding generation(preprocessing.ipynb)
 
 ## Experiments
 
 1. Bootstrap experiments: scripts are in files starting with bootstrap*.
-2. Single run (no bootstrap): scripts are in files starting with domino_pipeline*.
+2. Single runs (no bootstrap): scripts are in files starting with domino_pipeline*.
 3. LLM analysis: see the llm_analysis.py (Note: users must replace the placeholder with their own Hugging Face token.)
 
 ## Citation
