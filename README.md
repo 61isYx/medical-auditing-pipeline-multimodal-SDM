@@ -48,7 +48,7 @@ If you build upon this work, please cite them accordingly:
 
   ## Disclaimer
 
-This repository is part of an **Imperial College London Master’s thesis** and is provided for research purposes only.  
+This repository is provided for research purposes only.  
 For any enquiries, please contact: **yl28218@ic.ac.uk**
 
 
