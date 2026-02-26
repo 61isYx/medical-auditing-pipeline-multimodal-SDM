@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.2
+torch==2.2.2
+tqdm==4.66.5
+scikit-learn==1.5.1
+meerkat-ml==0.4.0
+matplotlib==3.9.1
+transformers==4.43.3
+huggingface-hub==0.24.6
+# Domino with extras (clip + text support)
+domino[clip,text] @ git+https://github.com/HazyResearch/domino@main
