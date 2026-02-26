@@ -33,7 +33,7 @@ The codebase is organised by experiment type:
 
 1. **Bootstrap experiments**: scripts are located in `src/bootstrap/`.
 2. **Single-run experiments (no bootstrap)**: scripts are located in `src/experiments/`.
-3. **LLM analysis**: see `src/llm/llm_analysis.py` (Note: replace the placeholder with your own Hugging Face token.)
+3. **LLM analysis**: see `src/llm_analysis.py` (Note: replace the placeholder with your own Hugging Face token.)
 4. **Clustering modifications**: scripts/notebooks are located in `src/clustering/`.
 
 ## Citation
