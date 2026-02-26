@@ -1,5 +1,9 @@
 # Thesis Codebase
 
+## Project Status
+
+This repository provides the experimental implementation used for the thesis study.
+A modularized and fully packaged version of the pipeline is currently being developed and will be released in a future update.
 ## Installation
 
 1. Create a Python environment (Python 3.10+ recommended).  
